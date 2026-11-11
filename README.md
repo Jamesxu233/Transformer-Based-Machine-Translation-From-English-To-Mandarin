@@ -130,9 +130,9 @@ The examples show that the model can generate readable Mandarin outputs for some
 ├── models/
 │   └── README.md
 ├── reports/
-│   └── README.md
+│   └── Transformer Based Machine Translation From English to Mandarin.pdf
 └── presentation/
-    └── README.md
+    └── Presentation.pptx
 ```
 
 - `datasetPreprocess.ipynb`: downloads the Hugging Face dataset and tokenizers, preprocesses sentence pairs, and exports JSON.
