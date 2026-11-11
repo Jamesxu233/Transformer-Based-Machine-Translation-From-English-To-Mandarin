@@ -1,1 +1,2 @@
-# Model checkpoints\n\nThe training notebook saves `model_state_dict.pth` here. The trained checkpoint was referenced in the original project checklist but was not included among the uploaded files. Add the actual checkpoint only if available and redistribution is permitted.\n
+# Model checkpoints
+The training notebook saves `model_state_dict.pth` here. Please refer to this link to acquire it: 
